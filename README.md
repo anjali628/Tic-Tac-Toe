@@ -16,13 +16,13 @@ This is the main screen that will appear after the splash screen. The game is fo
 
 The scoreboard also keeps on increasing the points for the winner after every game.
 
-If O wins the game-
+If player O wins the game-
 
 ![Screenshot_20210311-210642](https://user-images.githubusercontent.com/64889275/110813252-56603c80-82ae-11eb-8772-ea47b20c3689.png)
 
 
 
-If X wins the game-
+If player X wins the game-
 
 ![Screenshot_20210311-210653](https://user-images.githubusercontent.com/64889275/110813290-60823b00-82ae-11eb-92a3-089efcaf572e.png)
 

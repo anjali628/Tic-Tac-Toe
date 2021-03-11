@@ -34,6 +34,6 @@ If no one wins the game-
 
 
 
-If the user wants to reset the scoreboard, then after resetting both X and O will become 0-
+If the user wants to reset the scoreboard, then after resetting, both X and O will become 0-
 
 ![Screenshot_20210311-210623](https://user-images.githubusercontent.com/64889275/110813353-6f68ed80-82ae-11eb-82fa-442a79b74d5b.png)
